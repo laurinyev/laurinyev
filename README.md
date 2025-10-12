@@ -1,6 +1,6 @@
 # Hi Im Asriel 👋
 
-- 🔭 I’m currently working on : [Spikehead engine](https://github.com/asrrriel/spikehead)
+- 🔭 I’m currently working on : [Test language(for compiler dev practice)](https://github.com/asrrriel/testlang)
 - 📫 my Discord: asrrriel
 - 😄 Pronouns: he/him
 
