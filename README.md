@@ -1,7 +1,7 @@
 # Hi Im Valca 👋
 
 - 🔭 I’m currently working on : [Nova Game Engine](https://github.com/notnekodev/nova) ( and [a proglang](https://github.com/asrrriel/testlang) sometimes)
-- 📫 my Discord: asrrriel
+- 📫 my Discord: laurinyev
 - 😄 Pronouns: he/she/it/they(**ANYTHING**)
 
 # My stats:
