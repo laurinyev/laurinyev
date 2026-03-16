@@ -1,6 +1,6 @@
 # Hi Im Valca 👋
 
-- 🔭 I’m currently working on : [Nova Game Engine](https://github.com/notnekodev/nova) ( and [a proglang](https://github.com/asrrriel/testlang) sometimes)
+- 🔭 I’m currently working on : [Boonix](https://github.com/laurinyev/boonix) ( and [a windowing specification](https://github.com/laurinyev/brkrdsktp) sometimes)
 - 📫 my Discord: laurinyev
 - 😄 Pronouns: **any**
 
