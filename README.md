@@ -1,6 +1,6 @@
 # Hi Im Valca 👋
 
-- 🔭 I’m currently working on : [Boonix](https://github.com/laurinyev/boonix) ( and [a windowing specification](https://github.com/laurinyev/brkrdsktp) sometimes)
+- 🔭 I’m currently working on : random stuff
 - 📫 my Discord: laurinyev
 - 😄 Pronouns: **any**
 
